@@ -9,7 +9,7 @@ An Android library to make the implementation of voice/audio messages' playing e
 
 # Why to use this library? 
 - To avoid the unwanted errors of using MediaPlayer in Android
-- This is a ready-to-use component to use in playing the chat voice messages in chat applications or any other app
+- This is a ready-to-use component to use in playing the chat voice message in chat applications or any other app
 
 # Features
 - Extremely easy to use
